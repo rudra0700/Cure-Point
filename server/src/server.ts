@@ -2,8 +2,7 @@
 import { Server } from 'http';
 import app from './app.js';
 import config from './config/index.js';
-// import app from './app';
-// import config from './config';
+
 
 
 async function bootstrap() {
